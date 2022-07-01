@@ -3,7 +3,10 @@ import java.util.Scanner;
 public class Clase1 {
     public static void main(String[] args) {
         
-        
+        /*
+         * Escoger un método, (Condicionales y Ciclos).
+         */
+
     }
     private static void CondicionalIf(){
         var sc = new Scanner(System.in);
